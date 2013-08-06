@@ -1,0 +1,11 @@
+name: Drop
+main: tk.halfarsedcentral.plugins.drop.main.Main
+version: 0.1
+author: 'mineman277'
+
+commands:
+    Drop:
+        description: Generic Command
+        usage: /drop <start/stop>
+        permission: halfarsed.drop
+        permission-message: You don't have permission!
